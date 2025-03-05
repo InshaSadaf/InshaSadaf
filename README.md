@@ -10,10 +10,12 @@
 
 ## 🏆 **GitHub Stats & Achievements**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=InshaSadaf&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=InshaSadaf&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=InshaSadaf&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=InshaSadaf&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InshaSadaf&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InshaSadaf&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=InshaSadaf&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
 
 ---
 
@@ -53,12 +55,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-FFD43B?style=flat-square&logo=langchain&logoColor=black)  
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)  
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-412991?style=flat-square&logo=openai&logoColor=white)  
-
----
-
-## 📚 **Currently Exploring**  
-🔸 **Advanced Data Science & AI Applications**  
-
 
 ---
 
