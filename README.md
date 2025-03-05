@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Insha Sadaf  
 
-🚀 **Aspiring Data Analyst | Machine Learning Enthusiast | AI Explorer**  
+🚀 **Aspiring Data Analyst | Machine Learning Enthusiast | AI Explorer** 
+     📫 How to reach me inshs123@gmail.com
 
+     
 🔹 **Passionate about data-driven decision-making** and transforming raw data into actionable insights.  
 🔹 **Aspiring Data Scientist & Data Engineer**, with expertise in **data analytics, machine learning, and AI-driven applications**.  
 🔹 Currently exploring **LLMs (Large Language Models) & Multimodal AI**, integrating them into innovative AI-powered systems.  
