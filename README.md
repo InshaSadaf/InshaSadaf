@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Insha Sadaf  
 
 🚀 **Aspiring Data Analyst | Machine Learning Enthusiast | AI Explorer** 
+
      📫 How to reach me inshs123@gmail.com
 
      
