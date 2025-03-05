@@ -22,8 +22,8 @@
 ## 📊 **My Data-Driven Projects**
 
 ### 🔥 **Power BI & Data Analysis**
-📌 **HR Analytics Dashboard** – *Analyzed attrition trends, employee demographics & satisfaction insights using Power BI.*
-
+📌 [**HR Analytics Dashboard**](https://github.com/InshaSadaf/HR-Data-Analysis-PowerBI) – *Analyzed attrition trends, employee demographics & satisfaction insights using Power BI.*
+  
 ### 🤖 **Machine Learning & AI**
 📌 [**Generative-AI**](https://github.com/InshaSadaf/Generative-AI) – *Exploring AI with a focus on generative models.*  
 📌 [**Movie-Recommender-System**](https://github.com/InshaSadaf/Movie-Recommender-System) – *A content-based recommendation system providing personalized movie suggestions.*  
