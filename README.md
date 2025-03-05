@@ -24,12 +24,16 @@
 ### 🔥 **Power BI & Data Analysis**
 📌 [**HR Analytics Dashboard**](https://github.com/InshaSadaf/HR-Data-Analysis-PowerBI) – *Analyzed attrition trends, employee demographics & satisfaction insights using Power BI.*
   
-### 🤖 **Machine Learning & AI**
-📌 [**Generative-AI**](https://github.com/InshaSadaf/Generative-AI) – *Exploring AI with a focus on generative models.*  
+### 🤖 **Machine Learning & AI**### 🌟 **AI & Multimodal Projects**
+📌 [**VisionaryX**](https://github.com/InshaSadaf/-LLM-Multimodal) – *is an advanced AI-powered multi-modal chatbot that integrates text generation, image-based queries, text-to-image generation, and PDF document interaction. It aims to simplify AI interactions by offering a seamless and intuitive platform.*
 📌 [**Movie-Recommender-System**](https://github.com/InshaSadaf/Movie-Recommender-System) – *A content-based recommendation system providing personalized movie suggestions.*  
 📌 [**Object-Detector**](https://github.com/InshaSadaf/Object-Detector) – *An object detection project utilizing machine learning techniques.*  
 📌 [**AI-Exploration**](https://github.com/InshaSadaf/AI-Exploration) – *Features projects and experiments in AI, emphasizing Machine Learning and Deep Learning.*  
 📌 [**Google-AI-ML-Program-neural-networks-with-TensorFlow-**](https://github.com/InshaSadaf/Google-AI-ML-Program-neural-networks-with-TensorFlow-) – *A comprehensive guide to programming neural networks with TensorFlow.*  
+
+### 📩 **NLP & Classification Projects**
+- [**Spam Classifier**](https://github.com/InshaSadaf/Spam-Classifier) – *Built a machine learning-based spam detector and deployed it using Streamlit.*
+
 
 ---
 
