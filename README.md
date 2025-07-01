@@ -33,11 +33,12 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-005571?style=flat-square)
 
 ### 🤖 **LLMs, GenAI & Agentic AI**
+### 🤖 LLMs, GenAI & Agentic AI
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD65E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-FFC857?style=flat-square)
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-412991?style=flat-square&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Creo AI](https://img.shields.io/badge/Creo%20AI-00C7A4?style=flat-square)
+[![CrewAI](https://img.shields.io/badge/CrewAI-Agentic%20Framework-00C7A4?style=flat-square&logo=python&logoColor=white)](https://github.com/joaomdmoura/crewai)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 💻 **App Development & Deployment**
