@@ -16,6 +16,17 @@
 
 ---
 
+## 📈 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=InshaSadaf&theme=radical" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InshaSadaf&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InshaSadaf&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-profile-trophy.vercel.app/?username=InshaSadaf&theme=radical&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
 ## 🛠️ Technical Stack
 
 ### 📊 **Data Analysis & BI Tools**
@@ -98,17 +109,6 @@
 ## 🏅 Certification
 
 - 🎓 **Google AI ML Developer Certification**
-
----
-
-## 📈 GitHub Stats & Achievements
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=InshaSadaf&theme=radical" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=InshaSadaf&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InshaSadaf&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-profile-trophy.vercel.app/?username=InshaSadaf&theme=radical&no-frame=true" alt="Trophies" />
-</p>
 
 ---
 
